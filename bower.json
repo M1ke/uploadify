@@ -1,0 +1,11 @@
+{
+    "name": "uploadify",
+    "dependencies": {
+        "jquery": "/home/m1ke/web/lib/js/jquery/.git"
+    },
+    "description": "Uploadify",
+    "files": [
+        "uploadify-3.1.js",
+        "uploadify-3.1.swf"
+    ]
+}
