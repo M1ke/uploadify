@@ -232,8 +232,10 @@ Things that we updated
 								  }
 					});
 					$('#' + swfuploadify.movieName).wrap($wrapper);
+					
 					// Recreate the reference to wrapper
 					$wrapper = $('#' + settings.id);
+
 					// Add the data object to the wrapper 
 					$wrapper.data('uploadify', swfuploadify);
 
