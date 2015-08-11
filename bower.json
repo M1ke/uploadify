@@ -1,7 +1,7 @@
 {
     "name": "uploadify",
     "dependencies": {
-        "jquery": "git@github.com:m1ke/jquery-bower.git"
+        "jquery": "https://github.com/m1ke/jquery-bower.git"
     },
     "description": "Uploadify plugin (v3.1) in a bower formatted download",
     "files": [
